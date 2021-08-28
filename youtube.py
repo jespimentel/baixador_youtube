@@ -3,9 +3,7 @@
 # Extrai áudio ou vídeo a partir de uma lista de URLs do YouTube
 #
 #                 Autor: José E. S. Pimentel
-#                       @jespimentel
-#                           2021
-#
+#                                
 ################################################################
 
 import pafy
